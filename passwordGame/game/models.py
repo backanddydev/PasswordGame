@@ -14,7 +14,7 @@ def StarGame():
         else:
             button = "btn-secondary"
 
-
+testeTTy = 'TTy'
 
 red = 'buttonRed'
 green = 'buttonGreen'
